@@ -1,0 +1,35 @@
+ <div class="card px-[50px] py-[100px] " style="background-image: url(./img/women-fashion-free-img.jpg);">
+       
+        <div class="card-body">
+          <h2 class="text-4xl font-bold font-lato leading-[30px] text-white">20% Off On Tank Tops</h2>
+          <p class="text-base text-white font-lato">Subtract the result from the original price to find the <br>final price after the discount.</p>
+          <div class="card-actions ">
+            <button class="text-black text-lg font-medium bg-[white] p-[20px]">SHOP NOW</button>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="card px-[50px] py-[100px] " style="background-image: url(./img/women-fashion-free-img.jpg);">
+       
+        <div class="card-body">
+          <h2 class="text-4xl font-bold font-lato leading-[30px] text-white">20% Off On Tank Tops</h2>
+          <p class="text-base text-white font-lato">Subtract the result from the original price to find the <br>final price after the discount.</p>
+          <div class="card-actions ">
+            <button class="text-black text-lg font-medium bg-[white] p-[20px]">SHOP NOW</button>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="card px-[50px] py-[100px] " style="background-image: url(./img/women-fashion-free-img.jpg);">
+       
+        <div class="card-body">
+          <h2 class="text-4xl font-bold font-lato leading-[30px] text-white">20% Off On Tank Tops</h2>
+          <p class="text-base text-white font-lato">Subtract the result from the original price to find the <br>final price after the discount.</p>
+          <div class="card-actions ">
+            <button class="text-black text-lg font-medium bg-[white] p-[20px]">SHOP NOW</button>
+          </div>
+        </div>
+      </div>
